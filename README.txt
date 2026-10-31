@@ -1,0 +1,1 @@
+SITE PRET POUR GITHUB PAGES\n\n1. Cree un nouveau depot GitHub (par exemple: mon-site).\n2. Importe index.html et le dossier assets contenant photo.jpg.\n3. Dans Settings > Pages, choisis Deploy from a branch.\n4. Choisis la branche main et le dossier /(root), puis Save.\n5. Attends la publication; GitHub affichera l'adresse de ton site dans Pages.\n
